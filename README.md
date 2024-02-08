@@ -8,7 +8,7 @@ I'm Antonio, a passionate computer science student.
 * 🤝 Open to collaboration on interesting projects.
 * 🤔 Seeking help and advice to progress further.
 * 💬 Feel free to ask me anything about development or any other topic.
-* 📫 You can reach me at [email@example.com](mailto:email@example.com).
+* 📫 You can reach me at [antonioramanandraibe@gmail.com](mailto:antonioramanandraibe@gmail).
 * ❤️ Enthusiastic about creating innovative software solutions.
 * ⚡ Fun fact: I love solving puzzles and algorithmic challenges
 <!--

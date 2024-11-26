@@ -41,4 +41,4 @@ I am actively seeking new job opportunities in the **Fullstack Developer** field
 
 ---
 
-Feel free to check out my projects and connect with me through my [GitHub](https://github.com/antonioramanandraibe) and [LinkedIn](https://www.linkedin.com/in/antonioramanandraibe/).
+Feel free to check out my projects and connect with me through my [GitHub](https://github.com/antonioramana) and [LinkedIn](https://www.linkedin.com/in/antonio-ramanandraibe-19a370276/).
